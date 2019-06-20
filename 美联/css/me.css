@@ -1,0 +1,61 @@
+* {
+  padding: 0px;
+  margin: 0px; }
+
+.bor {
+  border: 1px solid black; }
+
+.bor1 {
+  border: 1px solid white; }
+
+.wi {
+  width: 100%;
+  background-image: url(../img/bg.jpg);
+  background-repeat: no-repeat; }
+  .wi li {
+    list-style: none; }
+
+.a {
+  background-image: url(../img/oleg.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%; }
+
+.b {
+  background-image: url(../img/oksana.png);
+  background-size: 100% 100%; }
+
+.c {
+  background-image: url(../img/ewelina.png);
+  background-size: 100% 100%; }
+
+.d {
+  background-image: url(../img/juraj.png);
+  background-size: 100% 100%; }
+
+.e {
+  background-image: url(../img/tmore.png);
+  background-size: 85% 85%;
+  background-repeat: no-repeat; }
+
+.f {
+  background-image: url(../img/bg2.jpg);
+  background-size: 100% 100%; }
+
+.wwi {
+  width: 100%;
+  background-color: #00a080;
+  background-repeat: no-repeat; }
+  .wwi li {
+    list-style: none; }
+
+.j {
+  background-image: url(../img/bg3.jpg);
+  background-size: 100% 100%; }
+
+.k {
+  width: 100%;
+  background-image: url(../img/bg.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%; }
+
+/*# sourceMappingURL=me.css.map */
